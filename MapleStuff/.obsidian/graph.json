@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:CUI",
+      "color": {
+        "a": 1,
+        "rgb": 49151
+      }
+    },
+    {
+      "query": "file:notes",
+      "color": {
+        "a": 1,
+        "rgb": 3710793
+      }
+    },
+    {
+      "query": "Extra",
+      "color": {
+        "a": 1,
+        "rgb": 13781263
+      }
+    },
+    {
+      "query": "file:Cwvs",
+      "color": {
+        "a": 1,
+        "rgb": 4475364
+      }
+    },
+    {
+      "query": "file:IWzVector",
+      "color": {
+        "a": 1,
+        "rgb": 11312364
+      }
+    },
+    {
+      "query": "file:CUserLocal",
+      "color": {
+        "a": 1,
+        "rgb": 6084296
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.36829521829522,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.828482328482329,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.5087618855792698,
+  "close": true
+}

@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "b06a4d78246dc57f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b605e592a867481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "046f54ecf6ea11ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUIUserInfo..Draw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fb5e124d51a3e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUIUserInfo..Draw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "461727b2b2f8d5f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "59a234ba9d33cf93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05fc04fd53ac8068",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23920ee00e38f815",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad2c36aedcd4bb07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "16244266bd3337de",
+    "type": "split",
+    "children": [
+      {
+        "id": "75a7297dce605b06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1417e4326a53d7c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CUIUserInfo..Draw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9b75b45f6883791",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CUIUserInfo..Draw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6b8c3ff0414fe03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d72918f65c261a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CUIUserInfo..Draw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7fb5e124d51a3e1e",
+  "lastOpenFiles": [
+    "Pasted image 20240407150454.png",
+    "Pasted image 20240407145125.png",
+    "Pasted image 20240407145020.png",
+    "Pasted image 20240407144920.png",
+    "Pasted image 20240407143357.png",
+    "Pasted image 20240407143223.png",
+    "Pasted image 20240407143139.png",
+    "CUIUserList..OnCreate.md",
+    "CUIUserList..SetScrollBar.md",
+    "CUIUserList..Draw.md",
+    "CUIStatDetail..OnCreate.md",
+    "CUIStatDetail..Draw.md",
+    "CUIStat..RestoreButtons.md",
+    "CUIStatDetail..CUIStatDetail.md",
+    "Notes/NOTES.md",
+    "CUIUserInfo..Draw.md",
+    "Pasted image 20240407142629.png",
+    "Pasted image 20240407142151.png",
+    "Pasted image 20240407141547.png",
+    "Pasted image 20240407141352.png",
+    "CUIUserInfo..CUIUserInfo.md",
+    "CWorldMapDlg..CreateWorldMapDlg.md",
+    "CUserLocal..DoActiveSkill_BoundJump.md",
+    "CUserLocal..DoActiveSkill_ShootAttack.md",
+    "CVecCtrlPet..WorkUpdateActive.md",
+    "CVecCtrlUser..WorkUpdateActive.md",
+    "CUIQuestInfo..OnCreate.md",
+    "CUIQuestInfoDetail..Draw.md",
+    "CUIItem..Draw.md",
+    "CUIQuestInfo..CUIQuestInfo.md",
+    "CUIMiniMap..Update.md",
+    "CUIMiniMap..SetLayer.md",
+    "CUISkill..CUISkill.md",
+    "CUISkill..OnSkillLevelUpButton.md",
+    "CUIStatusBar..ChatLogAdd.md",
+    "CUIStatusBar..ChatLogDraw.md",
+    "Untitled"
+  ]
+}
