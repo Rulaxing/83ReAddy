@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2b605e592a867481",
+        "id": "66df28ae84830b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "046f54ecf6ea11ef",
+            "id": "be9d9752328b8fd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CUIUserInfo..Draw.md",
+                "file": "CUIUserInfo..CreatePetAvatar.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7fb5e124d51a3e1e",
+            "id": "324c152e3cbf8a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CUIUserInfoDetail..Draw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "544d173260e1df4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,44 +171,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fb5e124d51a3e1e",
+  "active": "05fc04fd53ac8068",
   "lastOpenFiles": [
-    "Pasted image 20240407150454.png",
-    "Pasted image 20240407145125.png",
-    "Pasted image 20240407145020.png",
-    "Pasted image 20240407144920.png",
-    "Pasted image 20240407143357.png",
-    "Pasted image 20240407143223.png",
-    "Pasted image 20240407143139.png",
+    "CUIUserInfo..CUIUserInfo.md",
+    "CUIUserInfo..CreatePetAvatar.md",
+    "CUIUserInfo..Draw.md",
+    "CUIUserInfo..SetAvatarInfo.md",
+    "CUIUserInfoDetail..Draw.md",
+    "CUIUserInfoWishList..OnCreate.md",
+    "CUIUserList..Draw.md",
+    "Pasted image 20240408012534.png",
+    "Pasted image 20240408012314.png",
     "CUIUserList..OnCreate.md",
     "CUIUserList..SetScrollBar.md",
-    "CUIUserList..Draw.md",
-    "CUIStatDetail..OnCreate.md",
-    "CUIStatDetail..Draw.md",
-    "CUIStat..RestoreButtons.md",
-    "CUIStatDetail..CUIStatDetail.md",
-    "Notes/NOTES.md",
-    "CUIUserInfo..Draw.md",
-    "Pasted image 20240407142629.png",
-    "Pasted image 20240407142151.png",
-    "Pasted image 20240407141547.png",
-    "Pasted image 20240407141352.png",
-    "CUIUserInfo..CUIUserInfo.md",
-    "CWorldMapDlg..CreateWorldMapDlg.md",
-    "CUserLocal..DoActiveSkill_BoundJump.md",
+    "CUserLocal..DrawCombo.md",
     "CUserLocal..DoActiveSkill_ShootAttack.md",
-    "CVecCtrlPet..WorkUpdateActive.md",
+    "CUserLocal..DoActiveSkill_BoundJump.md",
+    "Pasted image 20240408011652.png",
+    "Pasted image 20240408011237.png",
+    "CUIToolTip..SetToolTip_Equip.md",
+    "Pasted image 20240408010751.png",
+    "Pasted image 20240408010350.png",
+    "Pasted image 20240407215048.png",
+    "Pasted image 20240407214729.png",
+    "CUIStatDetail..OnCreate.md",
+    "Untitled.canvas",
     "CVecCtrlUser..WorkUpdateActive.md",
-    "CUIQuestInfo..OnCreate.md",
-    "CUIQuestInfoDetail..Draw.md",
-    "CUIItem..Draw.md",
-    "CUIQuestInfo..CUIQuestInfo.md",
-    "CUIMiniMap..Update.md",
-    "CUIMiniMap..SetLayer.md",
-    "CUISkill..CUISkill.md",
-    "CUISkill..OnSkillLevelUpButton.md",
-    "CUIStatusBar..ChatLogAdd.md",
+    "Pasted image 20240407213334.png",
+    "Pasted image 20240407205117.png",
+    "CUIStatusBar..CQuickSlot..Draw.md",
     "CUIStatusBar..ChatLogDraw.md",
+    "CUIStatusBar..OnCreate.md",
+    "CUIStatDetail..Draw.md",
+    "CUIStatusBar..ChatLogAdd.md",
+    "CVecCtrlPet..WorkUpdateActive.md",
+    "CWorldMapDlg..CreateWorldMapDlg.md",
+    "CWvsApp..CreateMainWindow.md",
+    "CWvsContext..OnDropPickUpMessage.md",
+    "get_gender_from_id.md",
     "Untitled"
   ]
 }
