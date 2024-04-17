@@ -11,7 +11,7 @@
       "query": "file:CUI",
       "color": {
         "a": 1,
-        "rgb": 49151
+        "rgb": 2031360
       }
     },
     {
@@ -46,11 +46,25 @@
       "query": "file:CUserLocal",
       "color": {
         "a": 1,
-        "rgb": 6084296
+        "rgb": 15702795
+      }
+    },
+    {
+      "query": "CVec",
+      "color": {
+        "a": 1,
+        "rgb": 15597823
+      }
+    },
+    {
+      "query": "Cbook",
+      "color": {
+        "a": 1,
+        "rgb": 15890470
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.36829521829522,
@@ -60,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.713275462622458,
+  "scale": 0.7132754626224594,
   "close": true
 }
